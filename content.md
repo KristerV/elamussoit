@@ -4,7 +4,7 @@
 
 ![logo](images/elamussoit.png)
 
-## Istu ehtsa driftiauto rooli ja<br/>rebi täiel kiirusel külg ees asfaltit
+## Istu ehtsa driftiauto rooli ja<br/>rebi täiel kiirusel külg ees asfalti
 
 </div>
 
@@ -40,7 +40,7 @@ Ei ole Teil mingisugust rahalist lisakulu! Elamussõit OÜ on tehtud selleks, et
 - Ise saab roolida
 - 1 paar rehve kulutada
 - Piisavalt kütust
-- Sõit kestab orienteeruval 15-20min
+- Sõit kestab orienteeruvalt 15-20min
 - **119€**
 
 ### Kõrvalistmepakett
@@ -50,11 +50,11 @@ Ei ole Teil mingisugust rahalist lisakulu! Elamussõit OÜ on tehtud selleks, et
 
 ### Gruppidele
 
-- küsi hinnapakkumist
+- Küsi hinnapakkumist
 
 # Võta ühendust
 
-- telefon +372 58 030 675
+- Telefon +372 58 030 675
 - Email margus.mangus@gmail.com
 
 ![pilt2](images/img3.jpg)
