@@ -40,7 +40,7 @@ Ei ole Teil mingisugust rahalist lisakulu! Elamussõit OÜ on tehtud selleks, et
 - Ise saab roolida
 - 1 paar rehve kulutada
 - Piisavalt kütust
-- Sõit kestab orienteeruvalt 15-20min
+- Sõit kestab orienteeruvalt 10-15min
 - **119€**
 
 ### Kõrvalistmepakett
