@@ -1,4 +1,4 @@
-<div class="hero text-white">
+<main class="text-white">
 
 ![profile image](images/img1.jpg)
 
@@ -6,7 +6,7 @@
 
 ## Istu ehtsa driftiauto rooli ja<br/>rebi täiel kiirusel külg ees asfalti
 
-</div>
+</main>
 
 # Misasja?
 
