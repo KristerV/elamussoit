@@ -45,3 +45,17 @@ main > .image > img {
 .text-white p{
     color: white !important;
 }
+
+.text-center {
+    text-align: center;
+}
+
+.logo {
+    max-width: 350px !important;
+    padding: 0 !important;
+}
+
+.logo .image {
+    background-size: contain;
+    background-repeat: no-repeat;
+}

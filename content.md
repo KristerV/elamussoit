@@ -1,12 +1,16 @@
-<main class="text-white">
+![profile image](images/elamussoit6kitsam.jpg)
 
-![profile image](images/img1.jpg)
+<div class="logo">
 
-![logo](images/elamussoit.png)
+![logo](images/logo.png)
 
-## Istu ehtsa driftiauto rooli ja<br/>rebi täiel kiirusel külg ees asfalti
+</div>
 
-</main>
+<div class="text-center">
+
+# Istu ehtsa driftiauto rooli ja<br/>rebi täiel kiirusel külg ees asfalti
+
+</div>
 
 # Misasja?
 
@@ -57,5 +61,6 @@ Ei ole Teil mingisugust rahalist lisakulu! Elamussõit OÜ on tehtud selleks, et
 - Telefon +372 58 030 675
 - Email margus.mangus@gmail.com
 
-![pilt2](images/img3.jpg)
 ![pilt1](images/img2.jpg)
+![pilt2](images/elamussoit1.jpg)
+![pilt3](images/elamussoit3.jpg)
